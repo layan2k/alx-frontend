@@ -82,9 +82,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 
-.header {
+/* .header {
     padding: var(--section-header-padding);
-}
+} */
 
 .section {
     padding: var(--section-padding);
