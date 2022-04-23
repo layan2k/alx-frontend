@@ -371,6 +371,16 @@ ul.row {
     content: "";
 }
 
+.card-testimonial .card-quote cite {
+    display: block;
+    padding-top: 1rem;
+    color: var(--color-primary);
+}
+
+.card-testimonial .card-quote {
+    position: relative;
+}
+
 .card-work:hover .card-title {
 opacity: 1;
 }
