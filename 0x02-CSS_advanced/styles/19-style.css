@@ -100,13 +100,13 @@ ul .row {
 .col-1-3 {
     width: 33.33%;
     float: left;
-    padding: 0.5;
+    padding: 0.5rem;
 }
 
 .col-1-2 {
     width: 50%;
     float: left;
-    padding: 0.5;
+    padding: 0.5rem;
 }
 
 .section {
@@ -185,7 +185,7 @@ a:active {
 }
 
 .footer-copyright {
-    margin: 1;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
